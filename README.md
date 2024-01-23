@@ -68,9 +68,9 @@ However, we could not easily find distinguish keywords for each cluster. The onl
 In conclusion, the Sentence Transformers approach can give specific keywords for each cluster but some information about overall subjects may be lost. In the PCA and K-Means approach, we can group all IDs via their relationship; however, the keywords for each group are ambiguous. As a result, another analysis method is required to have a more explicit result in the future study.
 
 ## Reference
-1.	OpenStack Open Source Cloud Computing Software.
-2.	Sentence Transformers.
-3.	fast_clustering.py
-4.	Principal Component Analysis (PCA)
-5.	Elbow Method for the optimal value of k in KMeans
-6.	K-Means Clustering.
+1. [OpenStack Open Source Cloud Computing Software](https://www.openstack.org/)
+2. [Sentence Transformers](https://github.com/UKPLab/sentence-transformers/blob/master/README.md)
+3. [fast_clustering.py](https://github.com/UKPLab/sentence-transformers/blob/master/examples/applications/clustering/fast_clustering.py)
+4. [Principal Component Analysis (PCA)](https://www.datacamp.com/tutorial/principal-component-analysis-in-python)
+5. [Elbow Method for the optimal value of k in KMeans](https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/)
+6. [K-Means Clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
