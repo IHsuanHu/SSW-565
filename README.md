@@ -24,7 +24,8 @@ By using the Sentence Transformers method, the result showed that we could class
 
 ![fig1](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig1.png)
 
-Fig. 1. Group of owners by using Sentence Transformers
+:-Fig. 1. Group of owners by using Sentence Transformers-:
+
 ![fig2](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig2.png)
 
 Fig. 2. Group of reviewers by using Sentence Transformers
