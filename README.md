@@ -31,20 +31,5 @@ Fig. 1. Group of owners by using Sentence Transformers
 <div align="center">
 Fig. 2. Group of reviewers by using Sentence Transformers
 </div>  
-- 
-<div align="center">
-Table 1. Keywords for each cluster
 
-<table>
-  <tr>
-<th>c</th>	<th>Keywords of Clusters</th>
-  </tr>
-<tr> <th>0</th> <th>Fix, create, add, update, and change security group rules</th>  </tr>
-<tr><th>1</th><th>Fix, create, add, remove, and rename security group</th></tr>
-<tr><th>2</th> <th>Add, allow, update, apply, and test security group port</th></tr>
-<tr><th>3</th><th>Add, ingress, and fix pod container security</th></tr>
-</tr><th>4</th> <th>Add, fix, split, merge, and use tests for security groups</th></tr>
-<tr><th>5</th><th>Add, test, switch, normalize, fix, and disable neutron security group</th></tr>
-<tr><th>6</th><th>Delete, change, fix, change, and enable default security groups</th></tr>
-</table>
-</div>
+![table1]()
