@@ -32,4 +32,16 @@ Fig. 1. Group of owners by using Sentence Transformers
 Fig. 2. Group of reviewers by using Sentence Transformers
 </div>  
 
+<div align="center">
+Table 1. Keywords for each cluster
+</div>
+c	| Keywords of Clusters
+-|-
+0	| Fix, create, add, update, and change security group rules
+1	| Fix, create, add, remove, and rename security group
+2	| Add, allow, update, apply, and test security group port
+3	| Add, ingress, and fix pod container security
+4	| Add, fix, split, merge, and use tests for security groups
+5	| Add, test, switch, normalize, fix, and disable neutron security group
+6	| Delete, change, fix, change, and enable default security groups
 
