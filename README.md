@@ -35,8 +35,8 @@ Fig. 2. Group of reviewers by using Sentence Transformers
 <div align="center">
 Table 1. Keywords for each cluster
 </div>
-c	| Keywords of Clusters
--|-
+c	 |  Keywords of Clusters
+- | -
 0	| Fix, create, add, update, and change security group rules
 1	| Fix, create, add, remove, and rename security group
 2	| Add, allow, update, apply, and test security group port
