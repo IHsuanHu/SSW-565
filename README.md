@@ -18,3 +18,14 @@ Reviewer frequency = Number of times of the reviewer/ Total of reviewing times o
 Reference
 
 Once we got the distance matrix, we applied the PAC model to the matrix to do dimension reduction, and then we did a 3D plot to show the result. Meanwhile, we used the Elbow Method to find the optimal K and then used k-means clustering.
+
+## Result
+By using the Sentence Transformers method, the result showed that we could classify the majority of sentences into 7 clusters, and each cluster had its group of owners and reviewers.
+
+![fig1](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig1.png)
+Fig. 1. Group of owners by using Sentence Transformers
+![fig2](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig2.png)
+Fig. 2. Group of reviewers by using Sentence Transformers
+
+
+
