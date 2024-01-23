@@ -23,8 +23,9 @@ Once we got the distance matrix, we applied the PAC model to the matrix to do di
 By using the Sentence Transformers method, the result showed that we could classify the majority of sentences into 7 clusters, and each cluster had its group of owners and reviewers.
 
 ![fig1](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig1.png)
-
-<center>Fig. 1. Group of owners by using Sentence Transformers</center>
+<div align="center">
+Fig. 1. Group of owners by using Sentence Transformers
+</div>
 
 ![fig2](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig2.png)
 
