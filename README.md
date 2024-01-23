@@ -32,7 +32,9 @@ By using the Sentence Transformers method, the result showed that we could class
 <h4>Fig. 2. Group of reviewers by using Sentence Transformers</h4>
 </div>  
 
-![table1](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/table1.PNG)
+<div align="center">
+  <img src="https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/table1.PNG">
+</div>  
 
 There is a 2359 x 2359 distance matrix for PCA analysis and after dimension reduction, we retain 3 columns for the x, y, and z-axis. The result of the Elbow Method showed that K = 6 has a significant change in the rate of decrease, which means clustering into 6 could be a good fit for this data. As a result, all the owners and reviewers could be assigned to 6 groups.
 
