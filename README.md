@@ -34,7 +34,7 @@ Fig. 2. Group of reviewers by using Sentence Transformers
 - 
 <div align="center">
 Table 1. Keywords for each cluster
-</div>
+
 <table>
   <tr>
 <th>c</th>	<th>Keywords of Clusters</th>
@@ -47,3 +47,4 @@ Table 1. Keywords for each cluster
 <tr><th>5</th><th>Add, test, switch, normalize, fix, and disable neutron security group</th></tr>
 <tr><th>6</th><th>Delete, change, fix, change, and enable default security groups</th></tr>
 </table>
+</div>
