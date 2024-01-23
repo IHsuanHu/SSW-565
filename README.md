@@ -32,4 +32,4 @@ Fig. 1. Group of owners by using Sentence Transformers
 Fig. 2. Group of reviewers by using Sentence Transformers
 </div>  
 
-![table1]()
+![table1](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/table1.PNG)
