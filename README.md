@@ -41,13 +41,13 @@ There is a 2359 x 2359 distance matrix for PCA analysis and after dimension redu
 Fig. 3. The result of the Elbow Method
 </div> 
 
-<div align="center">
 ![fig4](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig4.png)
+<div align="center">
 Fig. 4. The result of K-Means clustering
 </div>
 
 <div align="center">
-![fig5](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig5.png)
+<img src="https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig5.png">
 Fig. 5 All id were classified into 6 groups
 </div>
 
