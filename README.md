@@ -25,12 +25,10 @@ By using the Sentence Transformers method, the result showed that we could class
 ![fig1](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig1.png)
 <div align="center">
 Fig. 1. Group of owners by using Sentence Transformers
-</div>
-
-
+</div>  
 ![fig2](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig2.png)
 <div align="center">
 Fig. 2. Group of reviewers by using Sentence Transformers
-</div>
+</div>  
 
 
