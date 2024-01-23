@@ -39,11 +39,11 @@ Table 1. Keywords for each cluster
   <tr>
 <th>c</th>	<th>Keywords of Clusters</th>
   </tr>
-0	| Fix, create, add, update, and change security group rules  
-1	| Fix, create, add, remove, and rename security group  
-2	| Add, allow, update, apply, and test security group port  
-3	| Add, ingress, and fix pod container security  
-4	| Add, fix, split, merge, and use tests for security groups  
-5	| Add, test, switch, normalize, fix, and disable neutron security group  
-6	| Delete, change, fix, change, and enable default security groups  
+<tr> <th>0</th> <th>Fix, create, add, update, and change security group rules</th>  </tr>
+<tr><th>1</th><th>Fix, create, add, remove, and rename security group</th></tr>
+<tr><th>2</th> <th>Add, allow, update, apply, and test security group port</th></tr>
+<tr><th>3</th><th>Add, ingress, and fix pod container security</th></tr>
+</tr><th>4</th> <th>Add, fix, split, merge, and use tests for security groups</th></tr>
+<tr><th>5</th><th>Add, test, switch, normalize, fix, and disable neutron security group</th></tr>
+<tr><th>6</th><th>Delete, change, fix, change, and enable default security groups</th></tr>
 </table>
