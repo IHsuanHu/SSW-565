@@ -31,7 +31,7 @@ Fig. 1. Group of owners by using Sentence Transformers
 <div align="center">
 Fig. 2. Group of reviewers by using Sentence Transformers
 </div>  
-
+- 
 <div align="center">
 Table 1. Keywords for each cluster
 </div>
