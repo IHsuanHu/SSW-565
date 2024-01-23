@@ -22,33 +22,32 @@ Once we got the distance matrix, we applied the PAC model to the matrix to do di
 ## Result
 By using the Sentence Transformers method, the result showed that we could classify the majority of sentences into 7 clusters, and each cluster had its group of owners and reviewers.
 
-![fig1](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig1.png)
 <div align="center">
-Fig. 1. Group of owners by using Sentence Transformers
+  <img src="https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig1.png">
+<h4>Fig. 1. Group of owners by using Sentence Transformers</h4>
 </div>  
 
-![fig2](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig2.png)
 <div align="center">
-Fig. 2. Group of reviewers by using Sentence Transformers
+  <img src="https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig2.png">
+<h4>Fig. 2. Group of reviewers by using Sentence Transformers</h4>
 </div>  
 
 ![table1](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/table1.PNG)
 
 There is a 2359 x 2359 distance matrix for PCA analysis and after dimension reduction, we retain 3 columns for the x, y, and z-axis. The result of the Elbow Method showed that K = 6 has a significant change in the rate of decrease, which means clustering into 6 could be a good fit for this data. As a result, all the owners and reviewers could be assigned to 6 groups.
 
-![fig3](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig3.png)
 <div align="center">
-Fig. 3. The result of the Elbow Method
+<img src="https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig3.png">
+<h4>Fig. 3. The result of the Elbow Method</h4>
 </div> 
 
-![fig4](https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig4.png)
 <div align="center">
-Fig. 4. The result of K-Means clustering
+<img src="https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig4.png">
+<h4>Fig. 4. The result of K-Means clustering</h4>
 </div>
 
 <div align="center">
 <img src="https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig5.png">
-
 <h4>Fig. 5 All id were classified into 6 groups</h4>
 </div>
 
