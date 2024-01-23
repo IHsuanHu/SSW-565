@@ -49,7 +49,7 @@ Fig. 4. The result of K-Means clustering
 <div align="center">
 <img src="https://github.com/IHsuanHu/Study_of_code_review_assignment/blob/master/fig5.png">
 
-<h5>Fig. 5 All id were classified into 6 groups</h5>
+<h4>Fig. 5 All id were classified into 6 groups</h4>
 </div>
 
 ## Discussion
